@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Josep Farias 
+## I am a system administrator
 
 - 👀 I’m interested in **Linux**, **OpenSource** and **tech in general**
 - 🌱 I’m currently learning Docker and VM
