@@ -20,4 +20,4 @@ Trabajo con Linux, Windows Server y entornos virtualizados. Me enfoco en que los
 
 ## Portfolio y contacto
 
-[Portfolio ZetaLabs](https://ezeta17.github.io/) · [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-germ%C3%A1n-far%C3%ADas-309b0266/) · [X / Twitter](https://twitter.com/ezeta17)
+[Portfolio ZetaLabs](https://ezeta17.github.io/) · [LinkedIn](https://www.linkedin.com/in/josep-farias/) · [X / Twitter](https://twitter.com/ezeta17)
