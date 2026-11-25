@@ -1,39 +1,23 @@
-# 👋 Hi, I’m Josep Farias [SysAdmin]
+# Hola, soy Josep Farias 👋
 
-- 👀 I’m interested in **Linux**, **OpenSource** and **tech in general**
-- 🌱 I’m currently learning Docker and VM
-- ⚡ Fun fact: I watch a lots of Movies specially Sc-Fi and Fantasy
-- ✨ Obsessed with finding simple solutions.
+**Administrador de sistemas · Infraestructura y automatización**  
+Rosario, Argentina
 
-## 🚀 Stuff I've worked with 
+Trabajo con Linux, Windows Server y entornos virtualizados. Me enfoco en que los servicios se puedan monitorear, respaldar y recuperar sin depender de pasos improvisados.
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-</p>
+## En qué trabajo
 
-## 📫 How to reach me ...
+- **Virtualización y migraciones:** Proxmox VE, VMware ESXi, máquinas virtuales y contenedores LXC.
+- **Almacenamiento y recuperación:** ZFS, Proxmox Backup Server y Veeam.
+- **Sistemas y redes:** Linux, Windows Server, MikroTik, VLAN, firewall y DNS.
+- **Monitoreo y automatización:** Nagios, Bash y PowerShell para chequeos, inventarios y tareas operativas.
 
-- [Twitter](https://twitter.com/ezeta17)
-- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-germ%C3%A1n-far%C3%ADas-309b0266/)
+## Proyectos seleccionados
 
+- **Infraestructura ZetaLabs:** laboratorio con Proxmox VE, ZFS y redes segmentadas para probar cambios antes de aplicarlos en producción.
+- **Migraciones de VMware a Proxmox:** planificación por VM y validación de arranque, red y servicios.
+- **Inspección de chequeos Nagios:** herramienta para ver cómo se construyen los comandos de chequeo y facilitar el diagnóstico.
 
-<!---
-<p align="left">
-  ███████╗███████╗████████╗ █████╗ ██╗      █████╗ ██████╗ ███████╗ <br>
-  ╚══███╔╝██╔════╝╚══██╔══╝██╔══██╗██║     ██╔══██╗██╔══██╗██╔════╝ <br>
-    ███╔╝ █████╗     ██║   ███████║██║     ███████║██████╔╝███████╗ <br>
-   ███╔╝  ██╔══╝     ██║   ██╔══██║██║     ██╔══██║██╔══██╗╚════██║ <br>
-  ███████╗███████╗   ██║   ██║  ██║███████╗██║  ██║██████╔╝███████║ <br>
-  ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝ <br>
-</p>
---->
+## Portfolio y contacto
+
+[Portfolio ZetaLabs](https://ezeta17.github.io/) · [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-germ%C3%A1n-far%C3%ADas-309b0266/) · [X / Twitter](https://twitter.com/ezeta17)
